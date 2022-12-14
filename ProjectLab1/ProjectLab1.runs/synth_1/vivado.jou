@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Dec 14 16:34:11 2022
+# Process ID: 22104
+# Current directory: D:/Jibin/TTU/Fall 2021/Project Lab/ProjectLab1/ProjectLab1.runs/synth_1
+# Command line: vivado.exe -log Rover_Code.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Rover_Code.tcl
+# Log file: D:/Jibin/TTU/Fall 2021/Project Lab/ProjectLab1/ProjectLab1.runs/synth_1/Rover_Code.vds
+# Journal file: D:/Jibin/TTU/Fall 2021/Project Lab/ProjectLab1/ProjectLab1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Rover_Code.tcl -notrace
